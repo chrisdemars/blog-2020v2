@@ -22,7 +22,7 @@ This leads us in to our problem.
 
 There are times when a designer or art director could approach you and say that the outline that renders around certain elements of the page like links, or buttons, doesn’t look…good. It doesn’t match our branding and, well, can you please just remove it.
 
-![](https://miro.medium.com/max/3840/1*v7vKzh1oLQYf-_Q0ddH5kQ.jpeg)
+![Developer versus designer slide](https://miro.medium.com/max/3840/1*v7vKzh1oLQYf-_Q0ddH5kQ.jpeg)
 
 And then being a developer, you follow up with, “sure I can remove it, but what alternative do you have to replace the outline?” If they look at you confused, then this is a great time to open up the communication of the importance of focus and what you can do collaboratively to make the experience accessible.
 
@@ -30,7 +30,7 @@ And then being a developer, you follow up with, “sure I can remove it, but wha
 
 If you have used [Eric Meyer’s reset](http://cssreset.com/scripts/eric-meyer-reset-css/), he removes the focus outline, but he explicitly says to define focus styles after the reset. What about normalize? If you go through the [normalize css file](https://github.com/necolas/normalize.css/blob/master/normalize.css) and do a search for focus, you won’t find it. You will however find styles for `:-moz-focusring`. Currently, `:-moz-focusring` is not a thing so those styles that are being applied using the `-moz`prefix might not work. If you go to the [Mozilla Web Docs](https://developer.mozilla.org/en-US/) and search for `:-moz-focusring` there is a warning at the top that states this such thing.
 
-![](https://miro.medium.com/max/3840/1*L3jU8qJ2eS5t6-KepUAzmQ.jpeg)
+![Difference between focus ring and moz focus ring](https://miro.medium.com/max/3840/1*L3jU8qJ2eS5t6-KepUAzmQ.jpeg)
 
 `:focus-ring` and `:-moz-focusring` seem to both be the same, neither are standards…yet. `:focus-ring`which has been renamed to `:focus-visible`is currently in the [CSS 4 spec](https://drafts.csswg.org/selectors-4/#the-focus-pseudo) and there is a polyfill which is the focus, no pun intended, of this post.
 
@@ -50,7 +50,7 @@ According to the Web Content Accessibility Guidelines 2.0, it states that any ke
 
 ## Browsers & Focus
 
-![](https://miro.medium.com/max/3840/1*5vMad6NVh7jf3JofvvpvVQ.jpeg)
+![Browsers and focus slide](https://miro.medium.com/max/3840/1*5vMad6NVh7jf3JofvvpvVQ.jpeg)
 
 Browsers handle focus differently as far as visual presentation goes, as well as functionality. They also focus differently from mouse to keyboard. I gave a talk illustrating these differences that you can find here ==> [Focusing on Focus](https://speakerdeck.com/chrisdemars/focusing-on-focus?slide=23).
 
@@ -58,7 +58,7 @@ Browsers handle focus differently as far as visual presentation goes, as well as
 
 I touched briefly on `:focus-visible` earlier, it is currently in the [CSS 4 spec,](https://drafts.csswg.org/selectors-4/#the-focus-pseudo) it originally landed on the 18th of May as `:focus-ring`. It’s not in any browsers yet, but there is a polyfill out there, one of which I am going to show you.
 
-![](https://miro.medium.com/max/5760/1*Ifo_3LdDQrtq31yZvCNtiA.png)
+![Focus visible editors draft image](https://miro.medium.com/max/5760/1*Ifo_3LdDQrtq31yZvCNtiA.png)
 
 When you remove the default focus by assigning it a value of zero or none, you remove that for everyone, both keyboard and mouse users. Even others who use some type of assistive technology if I had to bet on it.
 
@@ -74,7 +74,7 @@ Focus-ring polyfill to the rescue! Essentially it is only these three lines of C
 
 Below is a snippet from the JS file. What it means is anything that is focused, that does not have a focus ring, set the outline to none. This caters to the mouse users. It sets a focus ring to all the things in the whitelist in the JS file for both mouse and keyboards, except buttons. It turns off the focus ring for buttons for mouse clicks, but still allows the focus ring for keyboard users.
 
-![](https://miro.medium.com/max/1692/1*YaYqRxxIQDmfDWZG-r8wOA.png)
+![White list of focus ring coverage](https://miro.medium.com/max/1692/1*YaYqRxxIQDmfDWZG-r8wOA.png)
 
 ## The Support
 

@@ -86,7 +86,7 @@ I want all my data to be rendered within the `main` element with an `id` of `app
 
 The final product looks like this, with my name and title being rendered using Vue.
 
-![](https://miro.medium.com/max/5760/1*PuH85n-itFklrpcDg50azQ.png)
+![My old site using VueJS](https://miro.medium.com/max/5760/1*PuH85n-itFklrpcDg50azQ.png)
 
 ## Conclusion
 

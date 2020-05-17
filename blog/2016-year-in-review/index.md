@@ -14,115 +14,115 @@ When I look back at non-personal things that happened in 2016, it wasn’t the g
 
 Personally though, the year was great. I traveled to Denver three different times in 5 months. My best friend Nicole accepted a job in Denver at a hair salon and we drove from Detroit to Denver. Talk about an epic road trip. While I was there I met up with my buddy Scott Tolinski, who runs LevelUp Tuts on YouTube. Him and I did a video to add to his Q&A playlist. That was super fun. I also met up Miriam Suzanne and talked Sass and shop as well as met a new friend, Megan who is also a developer in the Denver tech scene.
 
-![](https://miro.medium.com/max/3864/1*TAmGPlVCMbAhVluNaSRu5A.jpeg)
+![Nicole and I trekkig to Denver](https://miro.medium.com/max/3864/1*TAmGPlVCMbAhVluNaSRu5A.jpeg)
 
-![](https://miro.medium.com/max/2160/1*sIx0xv03QhU4QdO07EdLeA.jpeg)
+![Denver Aquarium](https://miro.medium.com/max/2160/1*sIx0xv03QhU4QdO07EdLeA.jpeg)
 
-![](https://miro.medium.com/max/6048/1*T4YAmTh9kLmv3Xq0KVWQZg.jpeg)
+![Denver mountains](https://miro.medium.com/max/6048/1*T4YAmTh9kLmv3Xq0KVWQZg.jpeg)
 
-![](https://miro.medium.com/max/8064/1*ybA0cHpbjl5xFSG0aGtczA.jpeg)
+![Denver mountains](https://miro.medium.com/max/8064/1*ybA0cHpbjl5xFSG0aGtczA.jpeg)
 
-![](https://miro.medium.com/max/2484/1*qAeStljZo3dlsVy_JO-eBg.jpeg)
+![Denver mountains](https://miro.medium.com/max/2484/1*qAeStljZo3dlsVy_JO-eBg.jpeg)
 
-![](https://miro.medium.com/max/8064/1*QdMgins1fp-gthsM84xyAA.jpeg)
+![Denver mountains](https://miro.medium.com/max/8064/1*QdMgins1fp-gthsM84xyAA.jpeg)
 
-![](https://miro.medium.com/max/8064/1*DKiGJbpqBibZsI8uCDiM3Q.jpeg)
+![Downtown Denver](https://miro.medium.com/max/8064/1*DKiGJbpqBibZsI8uCDiM3Q.jpeg)
 
-![](https://miro.medium.com/max/3864/1*WE5NI801kn6iy0eLcIL8eQ.jpeg)
+![Hanging out with Meaghan in Denver](https://miro.medium.com/max/3864/1*WE5NI801kn6iy0eLcIL8eQ.jpeg)
 
-![](https://miro.medium.com/max/3864/1*kbZt3VO792hfNkIR81WXbA.jpeg)
+![Hanging out with Miriam in Denver](https://miro.medium.com/max/3864/1*kbZt3VO792hfNkIR81WXbA.jpeg)
 
-![](https://miro.medium.com/max/8064/1*5ILTTokNF72z05OSw3bxag.jpeg)
+![Denver mountains](https://miro.medium.com/max/8064/1*5ILTTokNF72z05OSw3bxag.jpeg)
 
-![](https://miro.medium.com/max/2560/1*X81SOT1H6nl1ySqX1FJKLA.jpeg)
+![Denver mountains](https://miro.medium.com/max/2560/1*X81SOT1H6nl1ySqX1FJKLA.jpeg)
 
-![](https://miro.medium.com/max/2160/1*keVrMcPsyZlL29H70CdFLw.jpeg)
+![Posing with Denver mountains in background](https://miro.medium.com/max/2160/1*keVrMcPsyZlL29H70CdFLw.jpeg)
 
-![](https://miro.medium.com/max/3864/1*avY2aaADbM6BoT8guJpmcg.jpeg)
+![Scott and I hanging out in Denver](https://miro.medium.com/max/3864/1*avY2aaADbM6BoT8guJpmcg.jpeg)
 
-![](https://miro.medium.com/max/4096/1*yiIP3_KE9RhP3XPPWYsx2Q.jpeg)
+![Picture in front of VooDoo Donuts](https://miro.medium.com/max/4096/1*yiIP3_KE9RhP3XPPWYsx2Q.jpeg)
 
 Nicole and I went through the Rockies and got to experience the beauty that is Colorado. We hung out on Broadway and I went and hung out at the science museum.
 
-![](https://miro.medium.com/max/2484/1*sImFPv-w-Ed2Kelb4MLkvg.jpeg)
+![Hanging out on Broadway in Denver](https://miro.medium.com/max/2484/1*sImFPv-w-Ed2Kelb4MLkvg.jpeg)
 
-![](https://miro.medium.com/max/3864/1*z4s_zT5R11NRd7kA3mCkBw.jpeg)
+![Chillin at the science museum with a robot](https://miro.medium.com/max/3864/1*z4s_zT5R11NRd7kA3mCkBw.jpeg)
 
 The last trip I made to Denver, we went to Estes Park and saw the Stanley Hotel. That was one thing I wanted to cross off my bucket list and I did just that. If you are not familiar with the Stanley Hotel, it is the hotel that was the setting for The Shining.
 
-![](https://miro.medium.com/max/2484/1*Wha3orxysIKyX3Hu7h5X2Q.jpeg)
+![Stanley Hotel in Estes Park, Colorado](https://miro.medium.com/max/2484/1*Wha3orxysIKyX3Hu7h5X2Q.jpeg)
 
 ### Community
 
 My community involvement really amped up in 2016. I gave talks, helped assist workshops, volunteered and co-organized events. I designed and developed the logo for DetroitJS as well as gave a talk for the first ever Meetup. I had help from my buddy TJ to build the tool I was working on and gave a talk about that, needless to say, my 5 minute lightning talk turned in to 3 minutes because I had some technical difficulties with my speaker notes. No big deal, I still got my speaker coin.
 
-![](https://miro.medium.com/max/8064/1*2y7mVTjSmU2PHnGHx4fjvw.jpeg)
+![DetroitJS stickers](https://miro.medium.com/max/8064/1*2y7mVTjSmU2PHnGHx4fjvw.jpeg)
 
-![](https://miro.medium.com/max/4096/1*bHrNYVpV5N3QN_T7DQ3VAw.jpeg)
+![DetroitJS speaker coin and opening slide from talk.](https://miro.medium.com/max/4096/1*bHrNYVpV5N3QN_T7DQ3VAw.jpeg)
 
 I co-organized Global Accessibility Awareness Day at Grand Circus in Detroit. That was a blast. I recruited developers from [Deque](http://dequelabs.com/) in Ann Arbor to help out with screen reader usage and answer questions during the workshop. The turn out was great. I also made stickers for that event as well.
 
-![](https://miro.medium.com/max/8064/1*AeffhNnZ3-AN1fDLwJXYkw.jpeg)
+![Hanging with friends at Global Accessibility Awareness Day](https://miro.medium.com/max/8064/1*AeffhNnZ3-AN1fDLwJXYkw.jpeg)
 
-![](https://miro.medium.com/max/4096/1*PTefQm9SV2W4jNBbFwCx1w.jpeg)
+![Global Accessibility Awareness Day in Detroit, MI](https://miro.medium.com/max/4096/1*PTefQm9SV2W4jNBbFwCx1w.jpeg)
 
 I gave a lot of talks for [Refresh Detroit](http://refreshdetroit.org/) which is a local user group here in the city. One of the talks I gave for them was a lightning talk on my 3 favorite chrome dev tools.
 
-![](https://miro.medium.com/max/8064/1*DngM6WfvwuG-4IVgPWilqQ.jpeg)
+![Refresh Detroit slides](https://miro.medium.com/max/8064/1*DngM6WfvwuG-4IVgPWilqQ.jpeg)
 
 In May, [Self.Conference](http://selfconference.org/) came along and I volunteered to help with that alongside my friend Amber Conville, the organizer and founder of Self.Conf. Self.Conf brought a lot of people from all over the country in to keynote and give talks on Web, software, and life. It was great being a part of that effort and with it being in my backyard it made it that much better.
 
-![](https://miro.medium.com/max/3864/1*5n4_W55dNFT1NGsvsAF_7Q.jpeg)
+![Chillin at Self.Conference](https://miro.medium.com/max/3864/1*5n4_W55dNFT1NGsvsAF_7Q.jpeg)
 
-![](https://miro.medium.com/max/3864/1*jhOOcOE0qDRDfZFg8dCIfA.jpeg)
+![Amber and I at Self.Conference](https://miro.medium.com/max/3864/1*jhOOcOE0qDRDfZFg8dCIfA.jpeg)
 
-![](https://miro.medium.com/max/3864/1*u7WKneYOawZvvAXJFofbag.jpeg)
+![Sara and I at Self.Conference](https://miro.medium.com/max/3864/1*u7WKneYOawZvvAXJFofbag.jpeg)
 
 ### Life
 
 Such is life right? I went through a bad non-breakup. By that I mean there was no title but there was an underlying relationship between me and the other person. I got 6 new tattoos; my arms are almost finished. My friend Marcy came to visit from Washington. She is a senior front-end engineer that works at [Deque](http://dequelabs.com/) remotely. She was in town for a week thing and we hung out a couple times. I showed her around downtown Ann Arbor along with her co-worker Wilco from the Netherlands.
 
-![](https://miro.medium.com/max/4096/1*zNx2iu2FtlvE-JLrnOKGIw.jpeg)
+![Hanging out in Ann Arbor with Marcy and Wilco](https://miro.medium.com/max/4096/1*zNx2iu2FtlvE-JLrnOKGIw.jpeg)
 
 I left DTE to start a new job at United Shore in Troy, Michigan as a Senior UI Developer. This was a great step in the right direction for my career and it is all UI all the time. No pressure in having to learn anything dealing with Java or MySql, Web services, etc. I also have full support from my leadership to speak at conferences which is a plus. I work with a stellar team too so that is awesome.
 
-![](https://miro.medium.com/max/6048/1*HWFCNQ8kv1wBHpONjIQKsg.jpeg)
+![First day at United Shore](https://miro.medium.com/max/6048/1*HWFCNQ8kv1wBHpONjIQKsg.jpeg)
 
-![](https://miro.medium.com/max/3864/1*zoG31B-uXcgN5_Yy1kxrVw.jpeg)
+![First day at United Shore](https://miro.medium.com/max/3864/1*zoG31B-uXcgN5_Yy1kxrVw.jpeg)
 
-![](https://miro.medium.com/max/5152/1*tmrd0pgemYuOti1WhUP1zw.jpeg)
+![Old team photo at United Shore](https://miro.medium.com/max/5152/1*tmrd0pgemYuOti1WhUP1zw.jpeg)
 
 The summer beer fest happened in downtown Ypsilanti and I was there. My first beer fest and I had a blast with great friends. I hope to do it again next year.
 
-![](https://miro.medium.com/max/5152/1*hf9M0rvMawwteUssZuPvOQ.jpeg)
+![Chillin with friends at the Beer fest in Ypsi](https://miro.medium.com/max/5152/1*hf9M0rvMawwteUssZuPvOQ.jpeg)
 
-![](https://miro.medium.com/max/5152/1*hmKWANxJxrFguYDOllJCCA.jpeg)
+![Chillin with friends at the Beer fest in Ypsi](https://miro.medium.com/max/5152/1*hmKWANxJxrFguYDOllJCCA.jpeg)
 
 In September I moved from Wyandotte to Detroit. Making a move like that to a huge city with real estate prices soaring was a huge deal for me. Detroit gets a bad rap but come to the city and hang out for a weekend. You will see that Detroit is not a bad place.
 
-![](https://miro.medium.com/max/5152/1*vIxfqI6Ufw_aZuD6s0YFsg.jpeg)
+![Chillin with Heather and Rob at the bar](https://miro.medium.com/max/5152/1*vIxfqI6Ufw_aZuD6s0YFsg.jpeg)
 
-![](https://miro.medium.com/max/6528/1*lI-xaykBOPr2AAr8g444og.jpeg)
+![Chillin on the balcony in my Detroit apartment](https://miro.medium.com/max/6528/1*lI-xaykBOPr2AAr8g444og.jpeg)
 
-![](https://miro.medium.com/max/8064/1*DgtGfph51SF17VGtCxxWhQ.jpeg)
+![My Detroit apartment](https://miro.medium.com/max/8064/1*DgtGfph51SF17VGtCxxWhQ.jpeg)
 
 I added to my ink collection and got 6 new tattoos and met one of my favorite tattoo artists in the game, Bob Tyrrell.
 
-![](https://miro.medium.com/max/3864/1*tlRfOEaYyzQ8qmEEJCQceg.jpeg)
+![Hanging with Bob Tyrell](https://miro.medium.com/max/3864/1*tlRfOEaYyzQ8qmEEJCQceg.jpeg)
 
-![](https://miro.medium.com/max/2400/1*DHK6923BI6wS9OSYI5Xi3g.jpeg)
+![Dice tattoos on my arm](https://miro.medium.com/max/2400/1*DHK6923BI6wS9OSYI5Xi3g.jpeg)
 
-![](https://miro.medium.com/max/3840/1*WeSMk2ri4JInb08xNpf4fw.jpeg)
+![Michael Myers tattoo on my arm](https://miro.medium.com/max/3840/1*WeSMk2ri4JInb08xNpf4fw.jpeg)
 
-![](https://miro.medium.com/max/6048/1*fw6VX4lcKg7b2mJbCRHJTw.jpeg)
+![Lighthouse tattoo on my arm](https://miro.medium.com/max/6048/1*fw6VX4lcKg7b2mJbCRHJTw.jpeg)
 
-![](https://miro.medium.com/max/3864/1*BULW1TEttA32SiQ0HvlUMg.jpeg)
+![Ohm and lotus tattoo on my arm](https://miro.medium.com/max/3864/1*BULW1TEttA32SiQ0HvlUMg.jpeg)
 
-![](https://miro.medium.com/max/3864/1*-sH_apzrUpr5grZM-6YTMQ.jpeg)
+![Healed ohm and lotus tattoo on my arm](https://miro.medium.com/max/3864/1*-sH_apzrUpr5grZM-6YTMQ.jpeg)
 
-![](https://miro.medium.com/max/3840/1*jgQiP3dE-mlMM8wPN-gk2Q.jpeg)
+![Sugar skull with rose tattoo on my arm](https://miro.medium.com/max/3840/1*jgQiP3dE-mlMM8wPN-gk2Q.jpeg)
 
-![](https://miro.medium.com/max/6528/1*dx7lmm5c-eydSdVThSkHiA.jpeg)
+![Sullen badge tattoo on my wrist](https://miro.medium.com/max/6528/1*dx7lmm5c-eydSdVThSkHiA.jpeg)
 
 ### Code and Blog Things
 
@@ -136,7 +136,7 @@ Last year was a good time for me to get some projects off the back burner and ou
 
 GitHub stats for the year:
 
-![](https://miro.medium.com/max/1946/0*JBQMRpLy2FlmA5LA.PNG)
+![GitHub contributions chart](https://miro.medium.com/max/1946/0*JBQMRpLy2FlmA5LA.PNG)
 
 ### 2017 Goals
 

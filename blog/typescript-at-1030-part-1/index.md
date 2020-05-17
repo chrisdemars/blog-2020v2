@@ -46,11 +46,11 @@ tsc app.ts
 
 TypeScript has a thing called “type annotations”. Basically, without the jargon, you can declare the specific type of variable you are instantiating. We have a few different types in JavaScript; number, string, bool, array, object, and believe it or not, a function. Below I demonstrate how to declare types on variables in TypeScript.
 
-![](https://miro.medium.com/max/5532/1*cOvtOSyEPyAoVMcUxlxYjg.png)
+![TypeScript REPL](https://miro.medium.com/max/5532/1*cOvtOSyEPyAoVMcUxlxYjg.png)
 
 However, if you choose to contradict the strict types you will get errors like below. To be clear, these are errors in TypeScript, BUT they are completely valid in JavaScript…so I have been told.
 
-![](https://miro.medium.com/max/5564/1*ur_KSOZbK0E9S_EDHrGJvQ.png)
+![TypeScript REPL](https://miro.medium.com/max/5564/1*ur_KSOZbK0E9S_EDHrGJvQ.png)
 
 ## The Why?
 

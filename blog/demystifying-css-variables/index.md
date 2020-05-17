@@ -8,7 +8,7 @@ What?!?!? CSS variables in the browser? Do my eyes deceive me?
 
 Have those thoughts circled your brain before? They probably did if you were unaware that we can make this happen now in your favorite browsers.
 
-![](https://miro.medium.com/max/5100/1*Y_EngHGfs7Yx081qPIV9GQ.png)
+![Can I Use chart for CSS variables](https://miro.medium.com/max/5100/1*Y_EngHGfs7Yx081qPIV9GQ.png)
 
 The year is 2018 and we now have the ability to create DOM (Document Object Model) aware variables that just work at runtime. It is an amazing time to be a developer. Especially a CSS developer like myself.
 
@@ -68,7 +68,7 @@ Now, the header will take on the color you defined inside the `.header` class. T
 
 Here is a small video of using CSS variables in CodePen to show how they actually work, instead of looking at code.
 
-![](https://miro.medium.com/max/2850/1*j-_VcI2hnedswOMlyUIRIQ.gif)
+![CodePen of CSS variables](https://miro.medium.com/max/2850/1*j-_VcI2hnedswOMlyUIRIQ.gif)
 
 # Last Thoughts
 

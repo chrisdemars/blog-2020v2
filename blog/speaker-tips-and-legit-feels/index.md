@@ -4,7 +4,7 @@ date: '2019-04-30'
 title: 'Speaker Tips & Legit Feels'
 ---
 
-![](https://miro.medium.com/max/800/1*GZPwhDwVmo99r-K0DK9VKw.jpeg)
+![On stage at VueJS London 2018](https://miro.medium.com/max/800/1*GZPwhDwVmo99r-K0DK9VKw.jpeg)
 
 What is going on friends? Really? You don’t say? Well, I am glad things are going well and if they aren’t, I hope things get much better. Hang in there! Easier said than done, trust me.
 
@@ -20,7 +20,7 @@ I love to speak, I also love to write therefore speaking to a group of people co
 
 That being said, let’s get in to some of the biggest tips I have learned along this amazing journey of knowledge transfer and mentoring!
 
-![](https://miro.medium.com/max/600/1*P4Civ0nsxg9TdwerOmdKTw.jpeg)
+![On stage at JSHeroes 2018](https://miro.medium.com/max/600/1*P4Civ0nsxg9TdwerOmdKTw.jpeg)
 
 ## Speaker Tip #1
 
@@ -68,7 +68,7 @@ When completing a very important thought during a slide, pause. That is it. Stop
 
 I am sure I have many more tips, but that is a different list for a different day. These 10 tips are what I feel are important to newer conference speakers on the circuit.
 
-![](https://miro.medium.com/max/600/1*xC1KnVjJkmrFvLktiJ424Q.jpeg)
+![On stage at Open Source North](https://miro.medium.com/max/600/1*xC1KnVjJkmrFvLktiJ424Q.jpeg)
 
 # The Feels
 

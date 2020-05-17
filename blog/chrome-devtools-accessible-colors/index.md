@@ -16,11 +16,11 @@ Color contrast is important because a user needs to be able to visually distingu
 
 Now, if you had a white background with black text, like here on Medium, that is an example of amazing contrast. The foreground or text pops off of the background color. Therefore, the content is easily readable.
 
-![](https://miro.medium.com/max/800/1*7QeVYzkE1Dpm_fP3wwYztg.gif)
+![Foreground and background colors demonstrating contrast.](https://miro.medium.com/max/800/1*7QeVYzkE1Dpm_fP3wwYztg.gif)
 
-![](https://miro.medium.com/max/800/1*CjpW-n8Qy2Po0ZWH4RwLJg.gif)
+![Foreground and background colors demonstrating contrast.](https://miro.medium.com/max/800/1*CjpW-n8Qy2Po0ZWH4RwLJg.gif)
 
-![](https://miro.medium.com/max/2860/1*JKGEwbcKrbgJHfVxhiGg1w.png)
+![New features in Chrome DevTools](https://miro.medium.com/max/2860/1*JKGEwbcKrbgJHfVxhiGg1w.png)
 
 ## Background
 
@@ -68,17 +68,17 @@ Level A is something you should just automatically hit in my opinion. If you are
 
 Let’s take a look at how we can use the contrast checker to make sure we are using accessible colors for the web.
 
-![](https://miro.medium.com/max/2850/1*VfVc65X4OzMvHnRKzUC3Iw.gif)
+![Animated GIF of how the contrast checker works in Chrome.](https://miro.medium.com/max/2850/1*VfVc65X4OzMvHnRKzUC3Iw.gif)
 
 1. Open up the DevTools in Chrome and select a color to inspect in the view. To inspect a color, select an element on the page and in the styles pane look for the `color` property. Next to that color property there should be a small color swatch box. When you click on that, the color palette opens.
 
-![](https://miro.medium.com/max/6208/1*0wp2Y5_PRFwPpFp0muiZ8A.png)
+![How to find the contrast checker](https://miro.medium.com/max/6208/1*0wp2Y5_PRFwPpFp0muiZ8A.png)
 
 2. Click on the area in the color picker that says “Contrast ratio:” it should also have a number and green check marks ✔️ or a “No” red symbol 🚫.
 
 🤔 _One check mark means it meets the minimum recommendation for contrast ratio, two check marks means it meets the enhanced recommendation for contrast ratio, if you were curious._
 
-![](https://miro.medium.com/max/6208/1*1TXUsNASmUGfktCcEYOxNg.png)
+![Contrast checker showing ratios](https://miro.medium.com/max/6208/1*1TXUsNASmUGfktCcEYOxNg.png)
 
 You will notice when you click on the the drop down, it shows whether or not you hit level AA or AAA and when you look at the color swatch panel there is a white line that runs across it. What this white line means is that any color above will not pass recommendation and any color below will pass. You can play with different colors to see what aligns with recommended standards for color contrast.
 

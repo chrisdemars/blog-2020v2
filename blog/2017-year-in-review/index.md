@@ -40,13 +40,13 @@ I participated in Hacktoberfest too and I got my shirt and stickers!!
 
 Started a podcast called Tales From the Script! Check it out on [iTunes](https://itunes.apple.com/us/podcast/tales-from-the-script/id1269393687?mt=2), [Google Play](https://play.google.com/music/m/Iowf6ktgvha3b2xibz5f65zuma4?t=Tales_From_The_Script) and [Stitcher](https://www.stitcher.com/podcast/tales-from-the-script).
 
-![](https://miro.medium.com/max/2800/1*FuralKUYHne1r_P1cJoPyg.png)
+![Tales From The Script logo](https://miro.medium.com/max/2800/1*FuralKUYHne1r_P1cJoPyg.png)
 
 This year I will try to write more and work on projects and attempt JS again, knowing after surgery that I can live life again will be a huge help.
 
 GitHub stats for the year:
 
-![](https://miro.medium.com/max/3028/1*2THRUmih2KC-CYA8WegrFw.png)
+![GitHub contributions chart](https://miro.medium.com/max/3028/1*2THRUmih2KC-CYA8WegrFw.png)
 
 # 2018 Goals
 

@@ -52,7 +52,7 @@ In life, shit happens. That is just the way things work. If I could have dedicat
 
 Today, I am a part of many user groups in the Detroit and Ann Arbor area where I speak, T.A., volunteer, and teach. I help organize events like [Global Accessibility Awareness Day](http://globalaccessibilityawarenessday.org/) and volunteer for conferences like [CodeMash](http://www.codemash.org/) and [Self.Conf](http://selfconference.org/). I have come along way through my journey, and the journey is only getting started. Battling mental health is a struggle to keep focused on the Web and writing code, but when I find the time to fit it in, I do. My goals are grand, and I plan to learn the shit out of JavaScript and be the best, all around, front-end dev like my peers I look up to. I am not new, this is not new, I don’t know what I don’t know. I am a developer.
 
-![](https://cdn-images-1.medium.com/max/800/0*96CxszKxX793R6VF.png)
+![Hello I am a developer](https://cdn-images-1.medium.com/max/800/0*96CxszKxX793R6VF.png)
 
 I am a developer!
 

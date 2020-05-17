@@ -32,13 +32,13 @@ Everyday when I come home from work and jump on my machine a few thoughts race t
 
 The third question is the kicker. I have come home from work with racing thoughts that transition to learning Vue to React to Angular. These thoughts are horrible. I feel trapped in a cage of learning and I can’t get free.
 
-![](https://miro.medium.com/max/2546/1*tjF-WgOS1NAHwVYpL5LtIA.png)
+![Vue, React, and Angular logos](https://miro.medium.com/max/2546/1*tjF-WgOS1NAHwVYpL5LtIA.png)
 
 Just the other day I came home, wanting to build something in Vue and maybe using GraphQL and did a total 180° and tried installing Gatsby again because my brain said, “No you must learn Gatsby, because it uses React and GraphQL.” Really brain? You couldn’t just let me focus on ONE thing and ONE thing only?
 
 In that same thread, my mind goes back-and-forth with learning some type of state management tool. I can’t physically tell my brain to slow down and focus. It doesn’t work that way.
 
-![](https://miro.medium.com/max/7220/1*BpaqVMW2RjQAg9cFHcX1pw.png)
+![Redux logo](https://miro.medium.com/max/7220/1*BpaqVMW2RjQAg9cFHcX1pw.png)
 
 The way I fix this is I don’t. I don’t know how to just steadily focus on one thing and one thing only when it seems every company out there wants you to know React, Vue, Redux, Vuex, Angular, AngularJS, Apollo, GraphQL, Elm, Ember, etc.
 

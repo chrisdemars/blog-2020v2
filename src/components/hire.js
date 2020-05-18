@@ -11,7 +11,7 @@ const Hire = () => {
           Are you looking for an accessibility specialist to create an
           experience that is usable for everyone? What about someone that can
           architect the user experience? Maybe a developer with amazing CSS
-          chops? Lets work together. I'd love to see what you having going on!
+          chops? Lets work together. I'd love to see what you have going on!
         </p>
         <Link to="/contact" className={HireStyles.btn}>
           Get in touch!

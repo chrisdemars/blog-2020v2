@@ -1,9 +1,9 @@
-import React from "react"
+import React from 'react';
 
-import "../global/styles.scss"
-import HeroStyles from "../styles/hero.module.scss"
+import '../global/styles.scss';
+import HeroStyles from '../styles/hero.module.scss';
 
-import Headshot from "../images/headshot.png"
+import Headshot from '../images/headshot.png';
 
 const Hero = () => {
   return (
@@ -23,7 +23,7 @@ const Hero = () => {
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default Hero
+export default Hero;

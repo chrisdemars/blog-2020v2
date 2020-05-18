@@ -1,5 +1,5 @@
-import React from "react"
-import UpcomingEventsStyles from "../styles/UpcomingEvents.module.scss"
+import React from 'react';
+import UpcomingEventsStyles from '../styles/UpcomingEvents.module.scss';
 
 const UpcomingEvents = () => {
   return (
@@ -34,7 +34,7 @@ const UpcomingEvents = () => {
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default UpcomingEvents
+export default UpcomingEvents;

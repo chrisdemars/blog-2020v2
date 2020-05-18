@@ -1,5 +1,5 @@
 import React from 'react';
-import UpcomingEventsStyles from '../styles/UpcomingEvents.module.scss';
+import UpcomingEventsStyles from '../styles/upcoming-events.module.scss';
 
 const UpcomingEvents = () => {
   return (

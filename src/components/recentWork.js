@@ -1,5 +1,5 @@
 import React from 'react';
-import RecentWorkStyles from '../styles/RecentWork.module.scss';
+import RecentWorkStyles from '../styles/recent-work.module.scss';
 
 import work from '../data/work.json';
 
